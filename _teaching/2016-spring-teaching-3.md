@@ -2,7 +2,6 @@
 title: "Basic Econometrics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
 venue: "As tutor"
 date: 2020-04-01
 location: "Tokyo, Japan"
