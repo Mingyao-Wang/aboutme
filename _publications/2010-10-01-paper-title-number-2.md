@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ""
-date: 2022
+date: 2023-01-01
 venue: 'Journal of Social Security Reserch'
 paperurl: "https://ipss.repo.nii.ac.jp/record/489/files/sh25070305.pdf"
 citation: 'Takaku Reo, Mingyao Wang. (2022). &quot;On Children’s School Lives After the COVID Pandemic\n－The Results and Preliminary Analysis of the School Life Survey in June 2022－.&quot; <i>Journal of Social Security Reserch 1</i>. 7(3).'
