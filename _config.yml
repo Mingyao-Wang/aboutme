@@ -13,7 +13,7 @@ title                    : "Main"
 title_separator          : "-"
 name                     : &name "Mingyao Wang"
 description              : &description "personal description"
-url                      : https://mingyao-wang.github.io/mingyaowang.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://mingyao-wang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mingyao-wang.github.io/mingyaowang.github.io"
 
