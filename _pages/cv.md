@@ -11,35 +11,45 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D cadidate in Empirical Economics, Hitotsubashi University
+* M.A. in Empirical Economics, Hitotsubashi University
+* B.A. in Finance, University of Jinan
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2023-now: Research Assistant
+  * The University of Tokyo, GSEMinistry of Economy, Trade and Industry
+  * Duties includes: Assited in Economic Analysis of Low Birth Rate and Aging Population Issues in Japan and ChinaDuring the COVID-19 Pandemic.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2023: Research Assistant
+  * The University of Tokyo, GSE
+  * Duties includes: Research on Factors Influencing the Severity of COVID-19 Patients
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
+* 2023.01-now: Research Assistant
+  * Hitotsubashi University, GSE
+  * Duties included: Research on National Ambulance Service RecordsMerging pull requests
+  * Supervisor: Professor Reo Takaku
+
+* 2021.03-2021.09: Cram School Teacher
+  * Keitei Education Group
+  * Duties included: Responsible for teaching basic and intermediate courses in microeconomics, macroeco-nomics, and econometrics.
+ 
+* Fall 2020: Teaching Assistant
+  * Hitotsubashi University, GSE
+  * Course Name: Health Economics Seminar
+
+* Winter 2015: Research Assistant
+  * University of Jinan, Business School
+  * Duties included: Assisted in translating a book on Agricultural Economics from Japanese to Chinese.
+  * Supervisor: Professor An
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R
+* STATA
+* Python
 
 Publications
 ======
@@ -58,7 +68,4 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
