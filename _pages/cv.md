@@ -23,7 +23,7 @@ Work experience
 
 * Spring 2023: Research Assistant
   * The University of Tokyo, GSE
-  * Duties includes: Research on Factors Influencing the Severity of COVID-19 Patients
+  * Duties includes: Research on Factors Influencing the Severity of COVID-19 Patients.
 
 * 2023.01-now: Research Assistant
   * Hitotsubashi University, GSE
@@ -42,8 +42,8 @@ Work experience
   * University of Jinan, Business School
   * Duties included: Assisted in translating a book on Agricultural Economics from Japanese to Chinese.
   * Supervisor: Professor An
-  
-  
+
+
 Skills
 ======
 * R
