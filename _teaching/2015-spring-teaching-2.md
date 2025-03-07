@@ -1,9 +1,9 @@
 ---
 title: "Teaching experience : Macroeconomics"
 collection: teaching
-type: "As tutor"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Cram school"
+venue: "As tutor"
 date: 2020-01-01
 location: "Tokyo, Japan"
 ---
