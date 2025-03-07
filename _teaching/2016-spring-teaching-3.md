@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Basic Econometrics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "As tutor"
+date: 2020-04-01
+location: "Tokyo, Japan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Taught undergraduate-level Econometrics(basic) primarily in Chinese, supplemented with Japanese and English, at a private cram school, preparing students for university entrance examinations.
 
 Heading 1
 ======
