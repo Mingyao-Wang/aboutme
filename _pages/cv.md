@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D cadidate in Empirical Economics, Hitotsubashi University
-* M.A. in Empirical Economics, Hitotsubashi University
-* B.A. in Finance, University of Jinan
+* Ph.D cadidate in Empirical Economics, Hitotsubashi University.
+* M.A. in Empirical Economics, Hitotsubashi University.
+* B.A. in Finance, University of Jinan.
 
 Work experience
 ======
