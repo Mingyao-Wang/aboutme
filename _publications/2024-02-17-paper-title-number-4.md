@@ -1,7 +1,7 @@
 ---
 title: "Swipe Right, Infect Left: Understanding the Impact of Dating Apps on the Syphilis Epidemic in Japan"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: "Working paper"
 date: 2024-05-01
