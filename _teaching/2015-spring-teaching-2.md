@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching experience : Macroeconomics"
 collection: teaching
-type: "Workshop"
+type: "As tutor"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Cram school"
+date: 2020-01-01
+location: "Tokyo, Japan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Taught undergraduate-level Macroeconomics courses (basic and intermediate) primarily in Chinese, supplemented with Japanese and English, at a private cram school, preparing students for university entrance examinations."
 
 Heading 1
 ======
