@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Mingyao Wang, currently pursuing a Ph.D. in Economics at Hitotsubashi University. My research primarily focuses on Environmental and Health Economics, particularly examining how environmental factors influence population health outcomes. Specializing in empirical analyses, I explore the intersection between environmental challenges and public health, aiming to provide evidence-based insights into how environmental issues affect population health. By integrating methodologies from Development Economics, Health Economics, and Environmental Economics, I strive to address these critical questions effectively and contribute to meaningful policy discussions.
+My name is Mingyao Wang, currently pursuing a Ph.D. in Economics at Hitotsubashi University. My research primarily focuses on Environmental and Health Economics, particularly examining how environmental factors influence population health outcomes. Specializing in empirical analyses, I explore the intersection between environmental challenges and public health, aiming to provide evidence-based insights into how environmental issues affect population health. By integrating methodologies from Development Economics, Health Economics, and Environmental Economics, I strive to address these critical questions effectively and contribute to meaningful policy discussions.
 
 For data analysis
 ======
