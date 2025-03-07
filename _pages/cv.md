@@ -25,7 +25,6 @@ Work experience
   * The University of Tokyo, GSE
   * Duties includes: Research on Factors Influencing the Severity of COVID-19 Patients
 
-
 * 2023.01-now: Research Assistant
   * Hitotsubashi University, GSE
   * Duties included: Research on National Ambulance Service RecordsMerging pull requests
