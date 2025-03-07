@@ -4,9 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1/
 excerpt: ""
-date: 2024-12-01
+date: 2024-12
 venue: "Science of The Total Environment"
-slidesurl: ""
 paperurl: "https://doi.org/10.1016/j.scitotenv.2024.176461"
 citation: "Wang, M. (2024). Hidden hazards behind coal cleaning technology: Unintended health deteriorations amid China's air quality improvements. <i>Science of The Total Environment</i>, 954, 176461."
 
