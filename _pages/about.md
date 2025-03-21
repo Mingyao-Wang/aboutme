@@ -16,4 +16,4 @@ I primarily use R for data cleaning and analysis, but I'm also proficient in Sta
 
 Teaching experience
 ======
-I have substantial experience teaching and mentoring students, specifically in economics and quantitative analysis. My teaching experience primarily involves tutoring students preparing for undergraduate and graduate-level admissions to prestigious institutions in Japan. I have guided students who successfully gained admission to top-tier universities such as the University of Tokyo, Hitotsubashi University, Kyoto University, Osaka University, Tohoku University, among others.
+I have substantial experience teaching and mentoring students, specifically in economics and quantitative analysis. My teaching experience primarily involves tutoring students preparing for undergraduate and graduate-level admissions to prestigious institutions in Japan.
